@@ -50,7 +50,7 @@ while(walking == True):
     ctr = ctr + 1
 
     if ctr % 100 == 0:
-        print(ctr)
+        print(int(ctr/100))
         plt.imsave('randomWalk_' + str(int(ctr/100)) + '.png', grid)
 
 plt.figure()
