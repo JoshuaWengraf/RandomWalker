@@ -55,6 +55,7 @@ while(walking == True):
 
 plt.figure()
 plt.imshow(grid)
-plt.xticks([])
+
+plt.xticks([]) #remove plot axis lines
 plt.yticks([])
 
