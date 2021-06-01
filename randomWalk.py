@@ -2,7 +2,7 @@
 """
 Created on 01/06/2021
 
-@author: Joshua
+@author: Joshua Wengraf
 
 Plots the path of a random walker. Simulation finishes once the walker 
 reaches the edge of the grid 
